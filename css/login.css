@@ -1,0 +1,64 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+html, body {
+	height: 100%;
+
+}
+
+body > section {
+	position: relative;
+	top: 50%;
+	transform: translateY(-70%);
+	float: left;
+}
+
+aside {
+	display: inline-block;
+	width: 50%;
+	float: left;
+}
+
+aside img {
+	width: 80%;
+	height: auto;
+	border-radius: 10%;
+
+}
+
+main {
+	display: inline-block;
+	width: 49%;
+	float: left;
+}
+
+h1 {
+	font-size: 50px;
+	color: #471c9c;
+	font-weight: 300;
+}
+
+h2 {
+	color: #471c9c;
+	font-weight: 300;
+}
+
+h3 {
+	font-weight: 300;
+	color: grey;
+	font-size: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
