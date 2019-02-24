@@ -55,8 +55,8 @@ function createArticle( $message ) {
         event.preventDefault( );
         let message = {
          "user": {
-         "name": "Ramses",
-         "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=25"
+         "name": "Tiff",
+         "image": "https://b.fssta.com/uploads/application/nhl/headshots/5116.vresize.350.425.medium.59.png"
          },
          "message": {
          "text": event.target.value,
